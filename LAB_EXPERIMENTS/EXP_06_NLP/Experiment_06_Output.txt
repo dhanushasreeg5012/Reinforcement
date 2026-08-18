@@ -1,4 +1,0 @@
-Autonomous Robot RL Model
-Learned Route: [0, 1, 2, 3, 4, 5]
-Goal Reached: True
-Framework concept: OpenAI Gym + TensorFlow/Keras

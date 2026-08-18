@@ -1,4 +1,0 @@
-Epsilon-Greedy Advertisement System
-Selections: [119, 223, 1547, 1111]
-Estimated Rates: [0.042, 0.09, 0.119, 0.098]
-Best Advertisement: Ad 3

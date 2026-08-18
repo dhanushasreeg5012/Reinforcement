@@ -1,7 +1,0 @@
-Warehouse Robot MDP
-('A', 'Forward') -> ('B', 0.9)
-('A', 'Right') -> ('C', 0.8)
-('B', 'Forward') -> ('Goal', 0.95)
-('C', 'Forward') -> ('Goal', 0.85)
-Best route: A -> B -> Goal
-Total Reward: 18
