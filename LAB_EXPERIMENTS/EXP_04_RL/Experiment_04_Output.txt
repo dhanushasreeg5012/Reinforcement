@@ -1,0 +1,6 @@
+Bellman Equation - Delivery Robot
+[8, 7, 4]
+[9, 8, 3]
+[7, 3, 1]
+Minimum Travel Cost: 8
+Optimal Path: Right -> Right -> Down -> Down
