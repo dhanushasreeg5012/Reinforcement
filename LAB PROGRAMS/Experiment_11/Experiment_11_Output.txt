@@ -1,0 +1,7 @@
+Traffic Signal Control Comparison
+DQN          = 42.80 sec average wait
+DDQN         = 36.30 sec average wait
+Dueling DQN  = 32.50 sec average wait
+PER          = 28.70 sec average wait
+Best Method: PER
+Lowest Waiting Time: 28.7 sec

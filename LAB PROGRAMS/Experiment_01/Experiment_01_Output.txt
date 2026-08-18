@@ -1,0 +1,4 @@
+Simplified Chess MDP
+State Values: {'Start': 9.9, 'Center': 11.0, 'Attack': 10, 'Win': 0.0}
+Optimal sequence: Start -> Center -> Attack -> Win
+Maximum Expected Reward: 9.9

@@ -1,0 +1,5 @@
+Humanoid Walking and Balance
+PPO final average reward: 87.73
+TRPO final average reward: 81.39
+More stable method: PPO
+Stable walking policy achieved

@@ -1,0 +1,4 @@
+Monte Carlo Vacuum Cleaner
+Estimated Room Values: {'A': 3, 'B': 1, 'C': 4, 'D': 2}
+Learned Cleaning Policy: C -> A -> D -> B
+Expected Net Reward: 10

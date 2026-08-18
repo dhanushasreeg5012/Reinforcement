@@ -1,0 +1,8 @@
+Hierarchical RL - Household Robot
+Available high-level tasks: ['Clean Room', 'Bring Water', 'Charge']
+Clean Room subtasks: Move to room -> Detect dirt -> Vacuum
+Bring Water subtasks: Go to kitchen -> Pick bottle -> Deliver bottle
+Charge subtasks: Find dock -> Move to dock -> Recharge
+HAM total task cost: 15
+MAXQ total task cost: 12
+More efficient hierarchy: MAXQ

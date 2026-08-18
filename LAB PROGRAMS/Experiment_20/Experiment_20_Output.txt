@@ -1,0 +1,5 @@
+Search-and-Rescue POMDP
+Observation: Weak Signal
+Updated belief: {'Victim Nearby': 0.35, 'Victim Far': 0.65}
+Selected action: Move Forward
+Decision made under uncertainty

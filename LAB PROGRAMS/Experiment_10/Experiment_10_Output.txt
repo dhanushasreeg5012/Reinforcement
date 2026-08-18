@@ -1,0 +1,5 @@
+Drone Delivery DQN Simulation
+Replay Memory Size: 100
+Start Q-values: [7.71, 9.68]
+Preferred Action: RIGHT
+Battery-aware delivery policy learned

@@ -1,0 +1,5 @@
+Warehouse Robot Algorithm Comparison
+TD(0) Start Q-values: [1.81, 3.12]
+SARSA Start Q-values: [1.8, 3.12]
+Q-Learning Start Q-values: [1.81, 3.12]
+Best learned action: Move Right

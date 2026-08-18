@@ -1,0 +1,5 @@
+Smart Elevator Scheduling
+Passenger requests: [2, 10, 9, 4, 5, 5, 5, 2] ...
+A2C average waiting time: 1.91
+A3C average waiting time: 1.62
+Better algorithm: A3C

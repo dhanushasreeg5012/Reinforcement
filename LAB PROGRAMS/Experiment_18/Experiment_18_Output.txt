@@ -1,0 +1,7 @@
+Meta-Reinforcement Learning - Industrial Robot
+Pick     adapted in 9 steps
+Place    adapted in 14 steps
+Weld     adapted in 11 steps
+Inspect  adapted in 7 steps
+Average adaptation steps: 10.25
+Robot quickly adapted to new manufacturing tasks

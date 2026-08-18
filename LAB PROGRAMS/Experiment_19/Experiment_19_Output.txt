@@ -1,0 +1,6 @@
+Multi-Agent RL - Warehouse System
+R1 assigned to T1
+R2 assigned to T2
+R3 assigned to T3
+Cooperative task allocation completed
+Navigation conflicts minimized
